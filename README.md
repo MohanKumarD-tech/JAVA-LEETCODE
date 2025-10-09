@@ -8,13 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2507-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
