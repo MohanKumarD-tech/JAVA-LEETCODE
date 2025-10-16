@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1307-ugly-number-iii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1307-ugly-number-iii) |
 | [2491-smallest-even-multiple](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2507-number-of-common-factors) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1307-ugly-number-iii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1307-ugly-number-iii) |
 ## Sorting
