@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
