@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Indexed Tree
 |  |
