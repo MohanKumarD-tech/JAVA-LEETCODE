@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Indexed Tree
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
