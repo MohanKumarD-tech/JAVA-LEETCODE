@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Indexed Tree
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
