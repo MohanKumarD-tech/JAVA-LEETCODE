@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
