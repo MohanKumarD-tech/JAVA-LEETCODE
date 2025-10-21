@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
