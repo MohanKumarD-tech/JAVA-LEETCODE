@@ -79,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0152-maximum-product-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
