@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0401-binary-watch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
