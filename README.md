@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0910-nth-magical-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0910-nth-magical-number) |
+| [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1307-ugly-number-iii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1307-ugly-number-iii) |
 | [2491-smallest-even-multiple](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2507-number-of-common-factors) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -195,8 +197,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0164-maximum-gap) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
