@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Bucket Sort
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
