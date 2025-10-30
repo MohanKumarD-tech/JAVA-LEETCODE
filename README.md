@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0910-nth-magical-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0910-nth-magical-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0401-binary-watch) |
 ## Dynamic Programming
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Radix Sort
 |  |
