@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0258-add-digits) |
+| [0486-predict-the-winner](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0910-nth-magical-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Bucket Sort
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Radix Sort
 |  |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0401-binary-watch) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
