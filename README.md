@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1307-ugly-number-iii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1307-ugly-number-iii) |
+| [2050-count-good-numbers](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2507-number-of-common-factors) |
 ## Number Theory
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2050-count-good-numbers) |
 ## Radix Sort
 |  |
 | ------- |
