@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1307-ugly-number-iii](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1307-ugly-number-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/2507-number-of-common-factors) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
+| [1370-count-number-of-nice-subarrays](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/0567-permutation-in-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
@@ -264,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MohanKumarD-tech/JAVA-LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
